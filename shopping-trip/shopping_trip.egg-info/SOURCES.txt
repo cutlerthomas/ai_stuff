@@ -1,0 +1,7 @@
+README.md
+setup.py
+shopping_trip.egg-info/PKG-INFO
+shopping_trip.egg-info/SOURCES.txt
+shopping_trip.egg-info/dependency_links.txt
+shopping_trip.egg-info/requires.txt
+shopping_trip.egg-info/top_level.txt

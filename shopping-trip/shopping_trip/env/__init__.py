@@ -1,0 +1,1 @@
+from shopping_trip.env.shopping_trip_env import ShoppingTripEnv
